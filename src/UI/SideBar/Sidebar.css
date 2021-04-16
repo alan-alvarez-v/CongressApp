@@ -1,0 +1,7 @@
+.sidebar{
+    height: 100vh;
+    position: fixed;
+    display: block;
+    width: 25%;
+    background-color: #282c34;
+}
